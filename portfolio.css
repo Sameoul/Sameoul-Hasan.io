@@ -1,0 +1,45 @@
+body
+{
+background-color:red;
+color:white;
+background-position:center;
+background-attachment:fixed;
+background-repeat:no-repeat;
+}
+h1
+{
+font-size:50px;
+color:white;
+font-family:Times New Roman;
+}
+h2
+{
+font-size:30px;
+color:white;
+background-color:blue;
+font-family:Italic;
+}
+h3
+{
+font-size:30px;
+color:red;
+background-color:yellow;
+background-size:40px;
+background-position:center;
+font-family:Italic;
+}
+h4
+{
+font-size:40px;
+color:red;
+background-color:white;
+background-size:40px;
+background-position:center;
+font-family:Italic;
+}
+  <style type="text/css">
+        .auto-style1 {
+            height: 255px;
+            width: 1140px;
+        }
+    </style>
